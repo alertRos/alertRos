@@ -1,6 +1,6 @@
 ### HOLA!🙋‍♀️
 #### Soy Ros, estudio desarrollo de software y me gusta mucho la tecnología
-- 🎀 Tengo conocimientos en C#, JavaScript, Java, PHP y bases de datos.
+- 🎀 Tengo conocimientos en C# (.NET Framework & .NET CORE), JavaScript, Java, PHP y bases de datos.
 
 - 🔭 Actualmente estoy trabajando en C# en .NET.
 
