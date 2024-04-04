@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- 🔭 I am currently working on C# in .NET.<br><br>- 🍥 I am currently learning artifcial intelligence and machine learning, in python and NextJs.<br><br>- 🍧  Fun fact: I was nerfed with procastination because otherwise, it would be too powerful 👍</p>
+<p align="left">- 🔭 I am currently working on C# in .NET.<br><br>- 🍥 I am currently learning artificial intelligence and machine learning, in python and NextJs.<br><br>- 🍧  Fun fact: I was nerfed with procastination because otherwise, it would be too powerful 👍</p>
 
 ###
 
