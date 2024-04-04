@@ -4,11 +4,11 @@
 
 ###
 
-<h1 align="left">Hi i'm Ros a Software Developer🙋‍♀️</h1>
+<h1 align="left">Hi, I'm Ros a Software Developer🙋‍♀️</h1>
 
 ###
 
-<p align="left">I am a programmer passionate about technology and learning. Analyst and creative. I have knowledge in web/desktop and database programming. Some of these technologies including C# (ASP.NET CORE, .NET), JavaScript, Python, PHP and Java.</p>
+<p align="left">I am a programmer passionate about technology and learning. Analyst and creative. I have knowledge in web/desktop and database programming. Some of these technologies includes C# (ASP.NET CORE, .NET), JavaScript, Python, PHP and Java.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- 🔭 I am currently working on C# in .NET.<br><br>- 🍥 I am currently learning artificial intelligence and machine learning, in python and NextJs.<br><br>- 🍧  Fun fact: I was nerfed with procastination because otherwise, it would be too powerful 👍</p>
+<p align="left">- 🔭 I am currently working on C# in .NET.<br><br>- 🍥 I am currently learning artificial intelligence and machine learning, in python and NextJs.<br><br>- 🍧  Fun fact: I was nerfed with procastination because otherwise, I would be too powerful 👍</p>
 
 ###
 
@@ -124,7 +124,7 @@
 
 ###
 
-<p align="center">_____________________________________________________________</p>
+<p align="center">_____________________</p>
 
 ###
 
