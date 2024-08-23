@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I am a programmer passionate about technology and learning. Analyst and creative. I have knowledge in web/desktop and database programming. Some of these technologies includes C# (ASP.NET CORE, .NET), JavaScript, Python, PHP and Java.</p>
+<p align="left">I am a programmer passionate about technology and learning. I have knowledge in web, desktop, mobile and database programming.</p>
 
 ###
 
