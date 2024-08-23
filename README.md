@@ -10,16 +10,6 @@
 
 <p align="left">I am a programmer passionate about technology and learning. I have knowledge in web, desktop, mobile and database programming.</p>
 
-###
-
-<h2 align="left">📍  About me</h2>
-
-###
-
-<p align="left">- 🔭 I am currently working on C# in .NET.<br><br>- 🍥 I am currently learning artificial intelligence and machine learning at Samsung Innovation Campus<br><br>- 🍧  Fun fact: I was nerfed with procastination because otherwise, I would be too powerful 👍</p>
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/rosmel-abril-beltrán-moreno-947073290/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
